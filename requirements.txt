@@ -1,0 +1,7 @@
+streamlit
+pinecone-client
+sentence-transformers
+transformers
+torch
+python-dotenv
+accelerate
